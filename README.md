@@ -1,9 +1,7 @@
 
 # Canon.com/IjSetup
 
-[![https ij start canon setup](get-Started.png)](https://hbomaxtvv.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
-
-If you just bought a new printer, then you have to set it up via **[canon.com/ijsetup](https://en-canoncomijsetup.github.io/)**. Weather you are a new or old use of Canon printers, you have to visit the official website of Canon. It offers the most advanced and efficient printing services, smoothening production, and mind-blowing prints. The first thing you have to do when you purchase a new printer or re-setup your existing printing device is to download the printer driver from www.canon.com/ijsetup.
+If you just bought a new printer, then you have to set it up via **[canon.com/ijsetup](https://en-canoncomijsetup.github.io/)**. Weather you are a new or old use of Canon printers, you have to visit the official website of Canon. It offers the most advanced and efficient printing services, smoothening production, and mind-blowing prints. The first thing you have to do when you purchase a new printer or re-setup your existing printing device is to download the printer driver from **www.canon.com/ijsetup**.
 
 ## Setup Canon IJ Printer
 
